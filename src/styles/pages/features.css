@@ -1,0 +1,21 @@
+.features {
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+    background-color: #f8f8f8;
+}
+
+.features .card {
+    background-color: #f8f8f8;
+}
+.features .card-text {
+    padding-top: 0 ;
+    font-size: 18px;
+    opacity: .6;
+}
+
+.features .head-text {
+    font-weight: 600;
+}
+.features .borderTop {
+    margin-bottom: 60px !important;
+}

@@ -1,0 +1,22 @@
+.latestpost {
+    padding-top: 80px !important;
+    padding-bottom: 120px !important;
+    background-color: #f8f8f8;
+  }
+.post-text {
+  font-size: 18px;
+  letter-spacing: .8px;
+  line-height: 30px;
+  color: #454545;
+}
+.latestpost .card {
+  background-color: #f8f8f8;
+}
+.post_title {
+  opacity: .4;
+}
+.latestpost .card-title {
+  font-size: 25px;
+  font-weight: 400;
+  padding: 0;
+}

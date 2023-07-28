@@ -1,0 +1,52 @@
+.subscribe {
+  padding-top: 80px !important;
+  padding-bottom: 80px !important;
+  background-color: #f8f8f8;
+}
+
+.subscribe h5 {
+  margin-bottom: 64px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  font-family: "Syne", sans-serif !important;
+}
+.subscribe h3 {
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 32px;
+}
+.form-control {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  box-shadow: none;
+  border: none !important;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.181) !important;
+  border-radius: 0;
+  font-size: 16px;
+  background-color: inherit;
+}
+.form-check-label {
+    font-size: .8rem;
+}
+
+/* @media (max-width: 575.98px){
+    .start-inner{
+        padding: 0 10px;
+    }
+    .confirom h3{
+        font-size: 16px;
+    }
+    .start-to h4{
+        padding: 0 10px;
+    }
+    .connect{
+        padding: 10px;
+    }
+    .subscribe{
+        text-align: left;
+    }
+
+    .bordered-wrapp{
+        padding: 0;
+    }
+} */

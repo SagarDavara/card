@@ -1,0 +1,44 @@
+.author {
+  padding-top: 80px !important;
+  padding-bottom: 80px !important;
+  background-color: #f8f8f8;
+}
+
+.author .borderTop {
+  margin-bottom: 60px !important;
+}
+
+.author-wrapper {
+  display: flex;
+  font-size: 14px;
+  gap: 10px;
+  font-weight: 700;
+  font-family: "Syne", sans-serif;
+}
+
+.author-dot {
+  opacity: 0.4;
+}
+
+.author-text {
+  font-weight: 300;
+  font-size: 16px;
+  opacity: 0.8;
+}
+
+.person-wrapper {
+  display: flex;
+  align-content: center;
+}
+
+.consectetur {
+  margin-bottom: 24px;
+  font-family: "Syne", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1;
+  letter-spacing: -0.06em;
+}
+
+.consectetur:hover {
+  color: #ae856c;
+}

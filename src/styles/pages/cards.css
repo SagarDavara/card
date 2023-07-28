@@ -1,0 +1,16 @@
+.cards {
+    background-color: #f8f8f8;
+    padding: 60px 0 !important;
+}
+
+.card {
+    background-color: #f8f8f8;
+}
+
+.card-info {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.56;
+    letter-spacing: -0.01em;
+    padding: 0;
+}

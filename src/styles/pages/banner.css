@@ -1,0 +1,36 @@
+.banner {
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+    background-color: #f8f8f8;
+}
+
+.banner-wrapper {
+    position: relative;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+h2 {
+    font-size: 60px;
+}
+.sub-title {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Syne', sans-serif !important;
+}
+.small-title {
+    font-size: 24px;
+    color: #454545;
+    padding-bottom: 20px;
+}
+.secondary-btn {
+    padding: 8px 12px;
+    background-color: #181818;
+    color: White;
+    border-radius: 25px;
+    border: 1px solid #181818;
+    font-family: 'Syne', sans-serif !important;
+}
+.secondary-btn:hover {
+    background-color: #181818;
+    color: white;
+}

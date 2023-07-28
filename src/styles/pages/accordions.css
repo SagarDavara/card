@@ -1,0 +1,38 @@
+.questions {
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+}
+
+.questions h1 {
+    width: 50%;
+}
+
+.accordion-header{
+    font-size: 24px;
+    padding: 20px 0;
+}
+.accordion-button{
+    font-size: 1.2rem;
+    padding-left: 0;
+}
+.accordion-button:focus {
+    box-shadow: none;
+    border: none !important;
+}
+.accordion-button:hover {
+    color: #d1ae99;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: transparent;
+    /* border-color: transparent; */
+}
+
+@media (max-width: 576px){
+    .accordin-wrap{
+        padding: 0;
+    }
+    .accordion-flush .accordion-item .accordion-button, .accordion-flush .accordion-item .accordion-button.collapsed{
+        font-size: 18px;
+    }
+}

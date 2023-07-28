@@ -1,0 +1,36 @@
+.comments {
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+}
+.comments .borderTop {
+    margin-bottom: 40px;
+}
+.comment-title {
+    margin-bottom: 64px;
+    font-size: .9rem;
+    font-weight: 400;
+    font-family: "Syne", sans-serif !important;
+}
+.comments p {
+    padding-top: 0;
+}
+.comment-dot {
+    opacity: .4;
+    font-weight: bold;
+}
+.comment-date, .your-comment {
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+.public-comment {
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.53;
+    letter-spacing: -0.01em;
+}
+
+@media (max-width: 575.98px) {
+    .bordered-wrapp{
+        padding: 0 0;
+    }
+}

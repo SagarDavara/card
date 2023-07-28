@@ -1,0 +1,23 @@
+.modernArt {
+  padding-top: 80px !important;
+  padding-bottom: 120px !important;
+}
+
+.modernArt h3 {
+  font-size: 25px;
+  font-weight: 400;
+  padding: 0;
+}
+.modernArt span {
+  opacity: 0.4;
+}
+.image-wrapper {
+  display: flex;
+  overflow: hidden;
+}
+
+.image-container {
+  height: 292px;
+  margin-right: 12px;
+}
+
