@@ -10,7 +10,7 @@ const Footer = () => {
           <Row>
             <Col sm={12} lg={4}>
               <a href="#" className="sub-title">
-                Artworks and Exhibition News
+                {/* Artworks and Exhibition News */}
               </a>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
